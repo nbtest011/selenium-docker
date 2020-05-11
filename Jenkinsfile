@@ -4,12 +4,14 @@ pipeline {
     stages {
         stage('Build Jar') {
             steps {
+                echo 'Building JAR files'
                 //sh
                 bat "mvn clean package -DskipTests"
             }
         }
         stage('Build Image') {
             steps {
+                echo 'Building Image'
                 //sh
                 bat "docker build -t nbtest011/seleniumdocker ."
             }
@@ -18,6 +20,7 @@ pipeline {
             steps {
 			    withCredentials([usernamePassword(credentialsId: 'dockerhub', passwordVariable: 'pass', usernameVariable: 'user')]) {
                     //sh
+                    echo 'Pushing Image to DockerHUB'
 			        bat "docker login --username=nbtest011 --password=nick@7528"
 			        bat "docker push nbtest011/seleniumdocker:latest"
 			    }                           
