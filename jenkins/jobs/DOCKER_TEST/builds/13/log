@@ -1,0 +1,11 @@
+Started by user [8mha:////4Ew0S8BKwKRswHceYNPmSeRA9fGOEbnR2BSkv6+D8J6DAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9vMzs0rwsAN2kZW/BAAAA[0mnikunj
+Running as SYSTEM
+Building remotely on [8mha:////4JPysxX7k/zszgfErsunLTvonvIt9VPFIM5obVrTw5CpAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwOoBn6yfm5BaUlqUX6Lv7O3q5B8YYAtUtIWccAAAA=[0mDOCKER_1 in workspace C:\Users\nikunj.bambhroliya\IdeaProjects\home\qa\jenkins\workspace\DOCKER_TEST
+[DOCKER_TEST] $ cmd /c call C:\Users\NIKUNJ~1.BAM\AppData\Local\Temp\jenkins7092444586059993879.bat
+
+C:\Users\nikunj.bambhroliya\IdeaProjects\home\qa\jenkins\workspace\DOCKER_TEST>docker ps 
+CONTAINER ID        IMAGE                 COMMAND                  CREATED             STATUS              PORTS                                              NAMES
+a58b4adc1772        jenkins/jenkins:lts   "/sbin/tini -- /usr/…"   35 minutes ago      Up 35 minutes       0.0.0.0:8080->8080/tcp, 0.0.0.0:50000->50000/tcp   thirsty_hugle
+
+C:\Users\nikunj.bambhroliya\IdeaProjects\home\qa\jenkins\workspace\DOCKER_TEST>exit 0 
+Finished: SUCCESS

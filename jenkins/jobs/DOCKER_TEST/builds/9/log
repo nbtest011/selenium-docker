@@ -1,0 +1,16 @@
+Started by user [8mha:////4Ew0S8BKwKRswHceYNPmSeRA9fGOEbnR2BSkv6+D8J6DAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/dLi1CL9vMzs0rwsAN2kZW/BAAAA[0mnikunj
+Running as SYSTEM
+Building remotely on [8mha:////4JPysxX7k/zszgfErsunLTvonvIt9VPFIM5obVrTw5CpAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwOoBn6yfm5BaUlqUX6Lv7O3q5B8YYAtUtIWccAAAA=[0mDOCKER_1 in workspace C:\Users\nikunj.bambhroliya\IdeaProjects\home\qa\jenkins\workspace\DOCKER_TEST
+[DOCKER_TEST] $ cmd /c call C:\Users\NIKUNJ~1.BAM\AppData\Local\Temp\jenkins4610187435816641350.bat
+
+C:\Users\nikunj.bambhroliya\IdeaProjects\home\qa\jenkins\workspace\DOCKER_TEST>docker ps 
+CONTAINER ID        IMAGE                       COMMAND                  CREATED             STATUS              PORTS                                              NAMES
+fddc8a631eab        jenkins/jenkins:lts         "/sbin/tini -- /usr/…"   5 days ago          Up 11 hours         0.0.0.0:8080->8080/tcp, 0.0.0.0:50000->50000/tcp   eager_taussig
+18f49cb1ebed        nbtest011/selenium-docker   "/bin/sh"                6 days ago          Up 37 hours                                                            frosty_blackburn
+240f4f060316        nbtest011/selenium-docker   "/bin/sh"                6 days ago          Up 39 hours                                                            nostalgic_fermi
+4bb771161a8a        nbtest011/selenium-docker   "/bin/sh"                6 days ago          Up 40 hours                                                            sweet_pare
+c485d4cd2954        nbtest011/selenium-docker   "/bin/sh"                6 days ago          Up 40 hours                                                            compassionate_kare
+6d11a43c62f5        nbtest011/selenium-docker   "/bin/sh"                6 days ago          Up 40 hours                                                            beautiful_satoshi
+
+C:\Users\nikunj.bambhroliya\IdeaProjects\home\qa\jenkins\workspace\DOCKER_TEST>exit 0 
+Finished: SUCCESS
