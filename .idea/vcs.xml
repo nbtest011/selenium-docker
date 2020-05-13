@@ -2,7 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jenkins/caches/git-70090ef979ca2aef3d28d5fa1fd020d2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jenkins/caches/git-b2f7dc75f4b01f5320115207df572ef1" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test1/caches/git-b2f7dc75f4b01f5320115207df572ef1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testrun" vcs="Git" />
   </component>
 </project>
