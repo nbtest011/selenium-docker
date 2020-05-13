@@ -134,3 +134,11 @@ Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
 Processing SELENIUM_DOCKER_RUNNER
 Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
 Finished at Tue May 12 09:09:21 UTC 2020. 14ms
+Started at Tue May 12 10:09:21 UTC 2020
+Processing DOCKER_TEST
+Offering DOCKER_TEST to Project Build Discarder
+Processing SELENIUM_DOCKER_BUILDER
+Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
+Processing SELENIUM_DOCKER_RUNNER
+Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
+Finished at Tue May 12 10:09:21 UTC 2020. 14ms
