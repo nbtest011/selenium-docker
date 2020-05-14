@@ -1,160 +1,88 @@
-Started at Mon May 11 12:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 12:09:21 UTC 2020. 55ms
-Started at Mon May 11 13:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 13:09:21 UTC 2020. 13ms
-Started at Mon May 11 14:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 14:09:21 UTC 2020. 20ms
-Started at Mon May 11 15:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 15:09:21 UTC 2020. 11ms
-Started at Mon May 11 16:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 16:09:21 UTC 2020. 11ms
-Started at Mon May 11 17:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 17:09:21 UTC 2020. 44ms
-Started at Mon May 11 18:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 18:09:21 UTC 2020. 9ms
-Started at Mon May 11 19:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 19:09:21 UTC 2020. 36ms
-Started at Mon May 11 20:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 20:09:21 UTC 2020. 32ms
-Started at Mon May 11 21:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 21:09:21 UTC 2020. 17ms
-Started at Mon May 11 22:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 22:09:21 UTC 2020. 15ms
-Started at Mon May 11 23:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Mon May 11 23:09:21 UTC 2020. 14ms
-Started at Tue May 12 00:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 00:09:21 UTC 2020. 38ms
-Started at Tue May 12 01:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 01:09:21 UTC 2020. 15ms
-Started at Tue May 12 02:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 02:09:21 UTC 2020. 34ms
-Started at Tue May 12 03:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 03:09:21 UTC 2020. 39ms
-Started at Tue May 12 04:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 04:09:21 UTC 2020. 47ms
-Started at Tue May 12 05:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 05:09:21 UTC 2020. 23ms
-Started at Tue May 12 06:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 06:09:21 UTC 2020. 37ms
-Started at Tue May 12 07:09:21 UTC 2020
-Processing DOCKER_TEST
-Offering DOCKER_TEST to Project Build Discarder
-Processing SELENIUM_DOCKER_BUILDER
-Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
-Finished at Tue May 12 07:09:21 UTC 2020. 16ms
-Started at Tue May 12 08:09:21 UTC 2020
+Started at Tue May 12 13:09:21 UTC 2020
 Processing DOCKER_TEST
 Offering DOCKER_TEST to Project Build Discarder
 Processing SELENIUM_DOCKER_BUILDER
 Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
 Processing SELENIUM_DOCKER_RUNNER
 Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
-Finished at Tue May 12 08:09:21 UTC 2020. 54ms
-Started at Tue May 12 09:09:21 UTC 2020
+Finished at Tue May 12 13:09:22 UTC 2020. 141ms
+Started at Tue May 12 14:09:21 UTC 2020
 Processing DOCKER_TEST
 Offering DOCKER_TEST to Project Build Discarder
 Processing SELENIUM_DOCKER_BUILDER
 Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
 Processing SELENIUM_DOCKER_RUNNER
 Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
-Finished at Tue May 12 09:09:21 UTC 2020. 14ms
-Started at Tue May 12 10:09:21 UTC 2020
+Finished at Tue May 12 14:09:21 UTC 2020. 29ms
+Started at Tue May 12 15:09:21 UTC 2020
 Processing DOCKER_TEST
 Offering DOCKER_TEST to Project Build Discarder
 Processing SELENIUM_DOCKER_BUILDER
 Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
 Processing SELENIUM_DOCKER_RUNNER
 Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
-Finished at Tue May 12 10:09:21 UTC 2020. 14ms
-Started at Tue May 12 11:09:21 UTC 2020
+Finished at Tue May 12 15:09:21 UTC 2020. 33ms
+Started at Tue May 12 16:09:21 UTC 2020
 Processing DOCKER_TEST
 Offering DOCKER_TEST to Project Build Discarder
 Processing SELENIUM_DOCKER_BUILDER
 Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
 Processing SELENIUM_DOCKER_RUNNER
 Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
-Finished at Tue May 12 11:09:21 UTC 2020. 43ms
-Started at Tue May 12 12:09:21 UTC 2020
+Finished at Tue May 12 16:09:21 UTC 2020. 43ms
+Started at Tue May 12 17:09:21 UTC 2020
 Processing DOCKER_TEST
 Offering DOCKER_TEST to Project Build Discarder
 Processing SELENIUM_DOCKER_BUILDER
 Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
 Processing SELENIUM_DOCKER_RUNNER
 Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
-Finished at Tue May 12 12:09:21 UTC 2020. 48ms
+Finished at Tue May 12 17:09:21 UTC 2020. 42ms
+Started at Tue May 12 18:09:21 UTC 2020
+Processing DOCKER_TEST
+Offering DOCKER_TEST to Project Build Discarder
+Processing SELENIUM_DOCKER_BUILDER
+Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
+Processing SELENIUM_DOCKER_RUNNER
+Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
+Finished at Tue May 12 18:09:21 UTC 2020. 44ms
+Started at Tue May 12 19:09:21 UTC 2020
+Processing DOCKER_TEST
+Offering DOCKER_TEST to Project Build Discarder
+Processing SELENIUM_DOCKER_BUILDER
+Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
+Processing SELENIUM_DOCKER_RUNNER
+Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
+Finished at Tue May 12 19:09:21 UTC 2020. 50ms
+Started at Tue May 12 20:09:21 UTC 2020
+Processing DOCKER_TEST
+Offering DOCKER_TEST to Project Build Discarder
+Processing SELENIUM_DOCKER_BUILDER
+Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
+Processing SELENIUM_DOCKER_RUNNER
+Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
+Finished at Tue May 12 20:09:21 UTC 2020. 41ms
+Started at Tue May 12 21:09:21 UTC 2020
+Processing DOCKER_TEST
+Offering DOCKER_TEST to Project Build Discarder
+Processing SELENIUM_DOCKER_BUILDER
+Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
+Processing SELENIUM_DOCKER_RUNNER
+Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
+Finished at Tue May 12 21:09:21 UTC 2020. 37ms
+Started at Tue May 12 22:09:21 UTC 2020
+Processing DOCKER_TEST
+Offering DOCKER_TEST to Project Build Discarder
+Processing SELENIUM_DOCKER_BUILDER
+Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
+Processing SELENIUM_DOCKER_RUNNER
+Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
+Finished at Tue May 12 22:09:21 UTC 2020. 52ms
+Started at Tue May 12 23:09:21 UTC 2020
+Processing DOCKER_TEST
+Offering DOCKER_TEST to Project Build Discarder
+Processing SELENIUM_DOCKER_BUILDER
+Offering SELENIUM_DOCKER_BUILDER to Project Build Discarder
+Processing SELENIUM_DOCKER_RUNNER
+Offering SELENIUM_DOCKER_RUNNER to Project Build Discarder
+Finished at Tue May 12 23:09:21 UTC 2020. 35ms
